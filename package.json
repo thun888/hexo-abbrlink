@@ -1,6 +1,6 @@
 {
-  "name": "hexo-abbrlink",
-  "version": "2.2.2",
+  "name": "hexo-abbrlink-hzc",
+  "version": "2.3.2",
   "description": "create one and only link for every post for hexo",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rozbo/hexo-abbrlink.git"
+    "url": "git+https://github.com/thun888/hexo-abbrlink.git"
   },
   "keywords": [
     "hexo",
@@ -17,12 +17,12 @@
     "permalink",
     "abbrlink"
   ],
-  "author": "rozbo",
+  "author": "thun888",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Rozbo/hexo-abbrlink/issues"
+    "url": "https://github.com/thun888/hexo-abbrlink/issues"
   },
-  "homepage": "https://github.com/Rozbo/hexo-abbrlink#readme",
+  "homepage": "https://github.com/thun888/hexo-abbrlink#readme",
   "dependencies": {
     "hexo-front-matter": "^1.0.0",
     "hexo-fs": "^3.1.0"
